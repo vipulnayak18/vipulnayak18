@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
 - 🔭 I just started my College
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for Internships so I can improve Myself
+- 🕺 I’m looking for Internships so I can improve Myself
 - 🥅 2021 Goals: Learn new Programming Languages And Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and can deadlift 150kgs
 - 📫 How to reach me **vplnyk18@gmail.com**. 
