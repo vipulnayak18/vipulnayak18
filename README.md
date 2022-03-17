@@ -70,7 +70,7 @@ ___
   </p>
  
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18)"><img src="https://activity-graph.herokuapp.com/graph?username=vipulnayak18&bg_color=FFFFFF&color=000000&line=000000&point=007FFF"></div>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18)"><img src="https://activity-graph.herokuapp.com/graph?username=vipulnayak18&bg_color=58A6FF&color=000000&line=FFFFFF&point=27346F"></div>
    
  
 <p align="center"> 
