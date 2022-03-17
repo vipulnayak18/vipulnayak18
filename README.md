@@ -24,18 +24,21 @@ Here are some ideas to get you started:
   
   # I'm a Student, Programmer in Construction, and Tech Enthusiast!!
 
+ <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+ 
 - 🔭 I just started my College
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for Internships so I can improve Myself
+- 🥅 2021 Goals: Learn new Programming Languages And Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code and can deadlift 150kgs
+-  
 
-- ⚡ Fun fact: I love to Program and 
+  
+  
+  
+  
 
-
-  
-  
-  
-  
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
   
   
@@ -48,16 +51,16 @@ Here are some ideas to get you started:
 -->
 
 
+___
+  
+  
+  
+  
 
-  
-  
-  ---
-  
-<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vipulnayak18&show_icons=true&count_private=true" alt="vipulnayak18" />
-
+ <p align="right">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18&theme=default" />
-  
+ 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18)"><img src="https://activity-graph.herokuapp.com/graph?username=vipulnayak18&bg_color=FFFFFF&color=000000&line=000000&point=007FFF"></div>
    
  
