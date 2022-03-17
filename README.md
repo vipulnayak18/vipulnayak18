@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   # I'm a Student, Programmer in Construction, and Tech Enthusiast!!
 
- <img  width="38%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ <img  width="35%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
  
 - 🔭 I just started my College
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Learn new Programming Languages And Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and can deadlift 150kgs
 - 📫 How to reach me **vplnyk18@gmail.com**. 
-- efrwr
+
 
 
 
@@ -59,10 +59,16 @@ ___
   
   
   
- <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vipulnayak18&show_icons=true&count_private=true" alt="vipulnayak18" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18&theme=default" />
+ <p align="center"
+  
+ [![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulnayak18&hide=prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)>
+  
+ 
+ <p align="center" 
+   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18&theme=dark&background=0D1117&sideNums=58A6FF&currStreakNum=58A6FF&ring=1F6FEB&currStreakLabel=fefefe&sidelabel=fefefe&fire=58A6FF)](https://git.io/streak-stats)>
+  </p>
+ 
  
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipulnayak18)"><img src="https://activity-graph.herokuapp.com/graph?username=vipulnayak18&bg_color=FFFFFF&color=000000&line=000000&point=007FFF"></div>
    
@@ -70,12 +76,12 @@ ___
 <p align="center"> 
 🔗 Connect with me:
    <p align="center">
-<a href="https://twitter.com/vipulisgood" target="blank"><img src="https://img.icons8.com/stickers/100/000000/twitter.png"  height="80" width="80">  
-<a href="https://www.facebook.com/profile.php?id=100071283969368" target="blank"><img src="https://img.icons8.com/stickers/100/000000/facebook-new--v2.png"  height="80" width="80">
-<a href="https://www.youtube.com/channel/UC154Mp1nYUyG1OEs9vmKUrA" target="blank"><img src="https://img.icons8.com/stickers/100/000000/youtube-play.png"  height="80" width="80">
-<a href="https://www.snapchat.com/add/vipulisgood?share_id=zRKKs0_5v3E&locale=en-IN" target="blank"><img src="https://img.icons8.com/stickers/100/000000/snapchat.png"  height="80" width="80">
-<a href="https://www.linkedin.com/in/vipul-nayak-284b2b228" target="blank"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png"  height="80" width="80">
-<a href="https://www.instagram.com/_vipulnayak/" target="blank"><img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png"  height="80" width="80">
+<a href="https://twitter.com/vipulisgood" target="blank"><img src="https://img.icons8.com/stickers/100/000000/twitter.png"  height="60" width="60">  
+<a href="https://www.facebook.com/profile.php?id=100071283969368" target="blank"><img src="https://img.icons8.com/stickers/100/000000/facebook-new--v2.png"  height="60" width="60">
+<a href="https://www.youtube.com/channel/UC154Mp1nYUyG1OEs9vmKUrA" target="blank"><img src="https://img.icons8.com/stickers/100/000000/youtube-play.png"  height="60" width="60">
+<a href="https://www.snapchat.com/add/vipulisgood?share_id=zRKKs0_5v3E&locale=en-IN" target="blank"><img src="https://img.icons8.com/stickers/100/000000/snapchat.png"  height="60" width="60">
+<a href="https://www.linkedin.com/in/vipul-nayak-284b2b228" target="blank"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png"  height="60" width="60">
+<a href="https://www.instagram.com/_vipulnayak/" target="blank"><img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png"  height="60" width="60">
   
 
 <p align="center">
