@@ -76,12 +76,12 @@ ___
 <p align="center"> 
 🔗 Connect with me:
    <p align="center">
-<a href="https://twitter.com/vipulisgood" target="blank"><img src="https://img.icons8.com/stickers/100/000000/twitter.png"  height="60" width="60">  
-<a href="https://www.facebook.com/profile.php?id=100071283969368" target="blank"><img src="https://img.icons8.com/stickers/100/000000/facebook-new--v2.png"  height="60" width="60">
-<a href="https://www.youtube.com/channel/UC154Mp1nYUyG1OEs9vmKUrA" target="blank"><img src="https://img.icons8.com/stickers/100/000000/youtube-play.png"  height="60" width="60">
-<a href="https://www.snapchat.com/add/vipulisgood?share_id=zRKKs0_5v3E&locale=en-IN" target="blank"><img src="https://img.icons8.com/stickers/100/000000/snapchat.png"  height="60" width="60">
-<a href="https://www.linkedin.com/in/vipul-nayak-284b2b228" target="blank"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png"  height="60" width="60">
-<a href="https://www.instagram.com/_vipulnayak/" target="blank"><img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png"  height="60" width="60">
+<a href="https://twitter.com/vipulisgood" target="blank"><img src="https://img.icons8.com/stickers/100/000000/twitter.png"  height="45" width="45">  
+<a href="https://www.facebook.com/profile.php?id=100071283969368" target="blank"><img src="https://img.icons8.com/stickers/100/000000/facebook-new--v2.png"  height="45" width="45">
+<a href="https://www.youtube.com/channel/UC154Mp1nYUyG1OEs9vmKUrA" target="blank"><img src="https://img.icons8.com/stickers/100/000000/youtube-play.png"  height="45" width="45">
+<a href="https://www.snapchat.com/add/vipulisgood?share_id=zRKKs0_5v3E&locale=en-IN" target="blank"><img src="https://img.icons8.com/stickers/100/000000/snapchat.png"  height="45" width="45">
+<a href="https://www.linkedin.com/in/vipul-nayak-284b2b228" target="blank"><img src="https://img.icons8.com/stickers/100/000000/linkedin.png"  height="45" width="45">
+<a href="https://www.instagram.com/_vipulnayak/" target="blank"><img src="https://img.icons8.com/stickers/100/000000/instagram-new--v2.png"  height="45" width="45">
   
 
 <p align="center">
