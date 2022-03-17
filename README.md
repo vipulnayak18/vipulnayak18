@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   # I'm a Student, Programmer in Construction, and Tech Enthusiast!!
 
- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ <img  width="38%" align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
  
 - 🔭 I just started my College
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to code and can deadlift 150kgs
 - 📫 How to reach me **vplnyk18@gmail.com**. 
 - efrwr
-- ewrr
-- ewrrew 
+
+
 
   
   
