@@ -92,5 +92,6 @@ Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 
-
+<p align="center">  
+ 
   ![](https://komarev.com/ghpvc/?username=VIPULNAYAK18&label=PROFILE+VISITORS&style=plastic&color=DC143C)
