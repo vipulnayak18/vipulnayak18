@@ -93,5 +93,4 @@ Here's some humor for you:
 
 
 
-  
-https://gpvc.arturio.dev/vipulnayak18
+  ![](https://komarev.com/ghpvc/?username=VIPULNAYAK18&label=PROFILE+VISITORS&style=plastic&color=DC143C)
